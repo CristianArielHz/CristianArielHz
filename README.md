@@ -4,21 +4,9 @@
 
 *Solutions Architect · AI Engineer · Mar del Plata, Argentina*
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-cristianArielHz-0A66C2?style=flat-square&logo=linkedin)
-
-](https://www.linkedin.com/in/cristianArielHz)
-[
-
-![X](https://img.shields.io/badge/X-@CristianArielHz-000000?style=flat-square&logo=x)
-
-](https://twitter.com/CristianArielHz)
-[
-
-![Site](https://img.shields.io/badge/cristianarielhz.com-6B7280?style=flat-square)
-
-](https://cristianarielhz.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cristianArielHz-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cristianArielHz)
+[![X](https://img.shields.io/badge/X-@CristianArielHz-000000?style=flat-square&logo=x)](https://twitter.com/CristianArielHz)
+[![Site](https://img.shields.io/badge/cristianarielhz.com-6B7280?style=flat-square)](https://cristianarielhz.com)
 
 </div>
 
